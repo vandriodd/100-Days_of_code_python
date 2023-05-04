@@ -1,5 +1,5 @@
 """
-    Writes a program that prints the number
+    Write a program that prints the number
     ofvcharacters in a user's name
 """
 
