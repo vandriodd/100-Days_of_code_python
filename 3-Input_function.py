@@ -3,5 +3,5 @@
     ofvcharacters in a user's name
 """
 
-name = input("What is your name? ")
-print(len(name))
+# I print the length of the input because it's replaced by the value "entered"
+print(len(input("What is your name? ")))
